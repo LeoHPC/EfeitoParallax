@@ -3,7 +3,7 @@
 
 ![Demostração_do_site](https://github.com/LeoHPC/EfeitoParallax/blob/main/Parallax/imagens/Demonstra%C3%A7%C3%A3o_do_site.gif)
 
-Neste projeto, apliquei o efeito "parallax", do qual simula uma movimentação nas imagens de fundo do site de acordo com o rolar da página, fazendo com que os conteúdos do primeiro plano se destaquem com o efeito 3D criado.
+Neste projeto, apliquei o efeito "parallax", do qual simula uma movimentação nas imagens de fundo do site de acordo com o rolar da página, fazendo com que os conteúdos do primeiro plano se destaquem com o efeito 3D criado. Este projeto foi feito com base nas aulas do curso "Desenvolvimento Web Completo 2021" do professor Jamilton Damasceno.
 
 ## 💻 Tecnologias
 
